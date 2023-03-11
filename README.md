@@ -3,7 +3,7 @@
 - 📧 You can contact me on my email: imyordanov@uni-sofia.bg  
 
 ### 💻 Programming languages
-[<img align="left" alt="Java" width="30px" styles="padding-right:10px;" src=>]
+<img align="left" alt="Java" width="30px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/java-seeklogo.com.svg" />
 
 
 <!-- - 🔭 I’m currently working on 
