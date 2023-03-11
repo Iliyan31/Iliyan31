@@ -4,8 +4,9 @@
 - 📧 You can contact me on my email: **imyordanov@uni-sofia.bg**  
 
 ### 💻 Programming languages that I have experience with:
-<img align="left" alt="Java" width="35px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/java-seeklogo.com.svg" />
-<img align="left" alt="Cpp" width="40px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Cpp" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
+<img align="left" alt="C" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/c-programming.png" />
 <img align="left" alt="Cpp" width="50px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/microsoft-sql-server-logo-svgrepo-com.svg" />
 
 
