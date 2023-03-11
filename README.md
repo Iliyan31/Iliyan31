@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Iliyan Yordanov
+- 🎓 I'm currently studying Software Engineering at the Sofia University
+- 📧 You can contact me on my email: imyordanov@uni-sofia.bg  
+<!-- - 🔭 I’m currently working on 
+- 🌱 I’m currently learning ... -->
 
 <!--
 **Iliyan31/Iliyan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
