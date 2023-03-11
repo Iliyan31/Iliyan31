@@ -7,8 +7,9 @@
 <img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Cpp" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="C" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/c-programming.png" />
-<img align="left" alt="Cpp" width="50px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/microsoft-sql-server-logo-svgrepo-com.svg" />
+<img align="left" alt="Cpp" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/microsoft-sql-server.png" />
 
+<!-- https://github.com/Iliyan31/images/blob/main/microsoft-sql-server-logo-svgrepo-com.svg -->
 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ... -->
