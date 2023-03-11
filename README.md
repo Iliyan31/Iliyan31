@@ -4,6 +4,7 @@
 
 ### 💻 Programming languages
 <img align="left" alt="Java" width="30px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/java-seeklogo.com.svg" />
+<img align="left" alt="Cpp" width="30px" styles="padding-right:10px;" src="https://github.com/Iliyan31/images/blob/main/ISO_C%2B%2B_Logo.svg" />
 
 
 <!-- - 🔭 I’m currently working on 
