@@ -8,6 +8,10 @@
 <img align="left" alt="Cpp" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/c-plus-plus-logo.png" />
 <img align="left" alt="C" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/c-programming.png" />
 <img align="left" alt="MSSQL" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/microsoft-sql-server.png" />
+<img align="left" alt="Python" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/python--v1.png" />
+<img align="left" alt="Bash" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/color/256/bash.png" />
+<img align="left" alt="R" width="50px" styles="padding-right:10px;" src="https://img.icons8.com/fluency/256/r-project.png" />
+
 
 <!-- https://github.com/Iliyan31/images/blob/main/microsoft-sql-server-logo-svgrepo-com.svg -->
 
