@@ -1,5 +1,5 @@
 
-### Hi there 👋 wellcome to my repo!
+### Hi there 👋, welcome to my repo!
 - 🎓 I'm currently studying Software Engineering at the Sofia University
 - 📧 You can contact me on my email: **imyordanov@uni-sofia.bg**  
 
